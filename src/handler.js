@@ -1,3 +1,4 @@
+
 //3220302
 //Irfan Juliana
 const books = require("./books")
@@ -233,8 +234,6 @@ const deleteBookHandler = (request, h) => {
     response.code(200);
     return response;
 };
-
-
 
 
 
